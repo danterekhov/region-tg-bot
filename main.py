@@ -9,7 +9,7 @@ logging.basicConfig(
 )
 
 # Замените 'YOUR_BOT_TOKEN' на реальный токен вашего бота
-TOKEN = "8425784587:AAFOgXdP-ZBlOIzNjbJDz943WesQR6gILvY"
+#TOKEN = "8425784587:AAFOgXdP-ZBlOIzNjbJDz943WesQR6gILvY"
 
 # Словарь с кодами и названиями регионов (пример для нескольких регионов)
 REGIONS = {
@@ -147,3 +147,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+
